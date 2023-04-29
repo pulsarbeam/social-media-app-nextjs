@@ -178,6 +178,7 @@ button.btn-green {
 button.btn-google {
   background-color: white;
   color: var(--color-text);
+  
 }
 
 .btn-google img {
